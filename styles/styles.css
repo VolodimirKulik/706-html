@@ -1,0 +1,27 @@
+.main {
+
+}
+table {
+    font-family: sans-seri;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background-color: #b8b8b8;
+    border: 20px solid #b8b8b8;
+    border-radius: 20px;
+    margin: auto;
+}
+th {
+    font-size: 18px;
+    padding: 10px;
+}
+td {
+    background: rgb(255, 219, 174)
+
+}
+Hello HTML {
+    margin-left: auto;
+}
+.Hello-HTML-title {
+    text-align: center;
+}
